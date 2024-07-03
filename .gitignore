@@ -1,2 +1,4 @@
 # Ignore all .ini files
 *.ini
+
+node_modules
